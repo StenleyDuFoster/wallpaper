@@ -1,0 +1,4 @@
+<resources>
+    <!-- Тутвсе строки приложения -->
+    <string name="my_str">String example</string>
+</resources>

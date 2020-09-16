@@ -1,0 +1,4 @@
+<resources>
+    <!-- Тут должно быть только app_name -->
+    <string name="app_name">My Wallpapers</string>
+</resources>
